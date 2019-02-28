@@ -1,1 +1,1 @@
-Jira ticket: 
+Jira: 
