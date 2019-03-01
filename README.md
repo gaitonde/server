@@ -1,3 +1,2 @@
 # Server README
-
-123456789
+0
